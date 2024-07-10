@@ -22664,6 +22664,12 @@
           "interfaces": null,
           "enumValues": [
             {
+              "name": "BTC",
+              "description": "Bitcoin (sats)",
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
               "name": "AED",
               "description": "United Arab Emirates Dirham",
               "isDeprecated": false,

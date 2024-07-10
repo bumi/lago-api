@@ -4512,6 +4512,11 @@ enum CreditNoteTypeEnum {
 
 enum CurrencyEnum {
   """
+  Bitcoin (sats)
+  """
+  BTC
+
+  """
   United Arab Emirates Dirham
   """
   AED
