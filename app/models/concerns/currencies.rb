@@ -4,6 +4,7 @@ module Currencies
   extend ActiveSupport::Concern
 
   ACCEPTED_CURRENCIES = {
+    BTC: 'Bitcoin (sats)',
     AED: "United Arab Emirates Dirham",
     AFN: "Afghan Afghani",
     ALL: "Albanian Lek",

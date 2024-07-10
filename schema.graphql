@@ -2684,6 +2684,7 @@ enum CreditNoteRefundStatusEnum {
 }
 
 enum CurrencyEnum {
+  BTC
   """
   United Arab Emirates Dirham
   """
